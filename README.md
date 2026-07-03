@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Coderly Logo" width="240">
+  <img src="logo.png" alt="Coderly Logo" width="4000">
 </p>
 
 <h1 align="center">Coderly</h1>
@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?logo=kotlin" alt="Kotlin">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.2-6DB33F?logo=springboot" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Vue-3-4FC08D?logo=vuedotjs" alt="Vue 3">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
 ---
@@ -89,14 +88,6 @@ Coderly 是一款专为程序员打造的刷题学习应用，帮助你通过系
 ## 下载安装
 
 前往 [Releases](https://github.com/kanerel/Coderly/releases) 页面下载最新版本的 APK 安装包，直接安装到 Android 设备即可使用。
-
-**测试账号：**
-
-| 用户名 | 密码 | 角色 |
-|--------|------|------|
-| admin | admin123 | 管理员 |
-| yh001 | 123456 | 普通用户 |
-| yh002 | 123456 | 普通用户 |
 
 ## 技术架构
 
