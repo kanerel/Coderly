@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Coderly Logo" width="4000">
+  <img src="logo.png" alt="Coderly Logo" width="400">
 </p>
 
 <h1 align="center">Coderly</h1>
